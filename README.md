@@ -1,2 +1,2 @@
 # Covid19 tweet sentiment analysis
-N this notebook we'll study the tweets on covid-19 and also perform Sentiment analysis so sit back to enjoy the power of BERT transformer
+In this notebook we'll study the tweets on covid-19 and also perform Sentiment analysis so sit back to enjoy the power of BERT transformer
